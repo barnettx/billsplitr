@@ -29,7 +29,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1> HELP </h1>
+        <h1> cool </h1>
 
         <div style={style.container}>
         <Camera
