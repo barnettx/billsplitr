@@ -49,6 +49,7 @@ class App extends Component {
           }}
         />
       </div>
+      <input type="file" accept="image/*" capture="camera" />
 
       </div>
     );
